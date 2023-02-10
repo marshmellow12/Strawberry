@@ -1,3 +1,2 @@
 # Strawberry
-I am editing this document
-yay
+I am editing this document!
